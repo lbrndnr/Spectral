@@ -44,8 +44,8 @@ class SpectralTests: XCTestCase {
     }
     
     func testOverflowingHexValue() {
-        let color = Color(hex: 0xB43FAAFF)
-        XCTAssertEqual(color.hexValue, 0x3FAAFF)
+        let color = Color(hex: 0x110000FF)
+        XCTAssertEqual(color.hexValue, 0x000000FF)
     }
     
     func testUnderflowingHexValue() {
