@@ -13,5 +13,20 @@ let color = UIColor(hex: 0xFFFFFF)
 let value = color.hexValue
 ```
 
+## Installation
+
+### CocoaPods
+```ruby
+pod "Spectral", "~> 0.0.1"
+```
+
+###Carthage
+```objc
+github "larcus94/Spectral" ~> 0.0.1
+```
+
 ## Author
 I'm Laurin Brandner, I'm on [Twitter](https://twitter.com/larcus94).
+
+## License
+Spectral is licensed under the [MIT License](http://opensource.org/licenses/mit-license.php).
