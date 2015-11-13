@@ -17,12 +17,12 @@ let value = color.hexValue
 
 ### CocoaPods
 ```ruby
-pod "Spectral", "~> 0.0.1"
+pod "Spectral", "~> 0.0.2"
 ```
 
 ###Carthage
 ```objc
-github "larcus94/Spectral" ~> 0.0.1
+github "larcus94/Spectral" ~> 0.0.2
 ```
 
 ## Author

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Spectral"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A µframework that adds hex support to UIColor/NSColor"
 
   s.homepage     = "https://github.com/larcus94/Spectral"
