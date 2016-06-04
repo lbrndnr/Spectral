@@ -1,7 +1,7 @@
 # Spectral
 
-[![Twitter: @larcus94](https://img.shields.io/badge/contact-@larcus94-blue.svg?style=flat)](https://twitter.com/larcus94)
-[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/larcus94/ImagePickerSheetController/blob/master/LICENSE)
+[![Twitter: @lbrndnr](https://img.shields.io/badge/contact-@lbrndnr-blue.svg?style=flat)](https://twitter.com/lbrndnr)
+[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/lbrndnr/ImagePickerSheetController/blob/master/LICENSE)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 ## About
@@ -22,7 +22,7 @@ pod "Spectral", "~> 0.0.2"
 
 ###Carthage
 ```objc
-github "larcus94/Spectral" ~> 0.0.2
+github "lbrndnr/Spectral" ~> 0.0.2
 ```
 
 ## Author
