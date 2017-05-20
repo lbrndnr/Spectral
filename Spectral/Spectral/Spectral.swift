@@ -7,15 +7,15 @@
 //
 
 #if os(iOS)
-
-import UIKit
-typealias Color = UIColor
-
+    
+    import UIKit
+    typealias Color = UIColor
+    
 #elseif os(OSX)
-
-import Cocoa
-typealias Color = NSColor
-
+    
+    import Cocoa
+    typealias Color = NSColor
+    
 #endif
 
 extension Color {

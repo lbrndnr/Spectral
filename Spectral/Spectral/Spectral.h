@@ -13,7 +13,3 @@ FOUNDATION_EXPORT double SpectralVersionNumber;
 
 //! Project version string for Spectral.
 FOUNDATION_EXPORT const unsigned char SpectralVersionString[];
-
-// In this header, you should import all the public headers of your framework using statements like #import <Spectral/PublicHeader.h>
-
-
